@@ -15,9 +15,7 @@ src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
   <span> ┃ </span>
   
   <a href="https://discord.com">
-    <img alt="Discord" width="30px" 
-src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-
-Bot/blob/main/discord-icon-svgrepo-com.svg" />
+    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>zee#2655</code>
   </a>
   <span> ┃ </span>
