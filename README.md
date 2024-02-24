@@ -36,7 +36,7 @@ ReviewGuardian is an innovative 🚀 tool designed to identify and report fake o
 - **VPN Integration:** Uses different IP addresses to enhance report credibility. 🌐
 - **User-Friendly Interface:** Simple and intuitive interface for easy setup and monitoring. 👥
 
-### Future Enhancements 🚧
+## Future Enhancements 🚧
 - 📈 **Advanced Analytics:** For deeper insights into review patterns and trends.
 - 🧠 **AI-Powered Detection:** Utilizing machine learning for improved accuracy.
 - 🌍 **Multi-Language Support:** To cater to users around the globe.
@@ -53,17 +53,17 @@ from src.scheduler import schedule_reports
 schedule_reports(30)
 ```
 
-Setup and Installation Instructions 🛠️
+## Setup and Installation Instructions 🛠️
 Clone the repository 📥
 Install dependencies: pip install -r requirements.txt 📚
 Configure settings in config/settings.py ⚙️
 Run src/main.py to start the application 🚀
 
-Troubleshooting Tips 🔧
+## Troubleshooting Tips 🔧
 Ensure all dependencies are correctly installed 🔄
 Check VPN configurations if IP rotation encounters issues 🌐
 Verify API keys and endpoints in config/settings.py 🔑
 
-Contribution Guidelines 🤝
+## Contribution Guidelines 🤝
 We welcome contributions! Please refer to our Contribution Guidelines for more information on how you can become a part of this exciting project!
 
