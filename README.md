@@ -67,3 +67,27 @@ Advanced analytics dashboard for insights 📊
 - schedule
 
 
+## Usage Examples
+``` from src.scheduler import schedule_task
+schedule_task(report_review, interval=30)
+```
+## Setup and Installation Instructions
+Clone the repository:
+```git clone [Repository URL] ```
+
+Install dependencies
+```pip install -r requirements.txt ```
+Configure .env with necessary API keys and settings.
+
+## Troubleshooting Tips
+- Ensure all environment variables are correctly set.
+- Verify VPN service is operational if reports fail to submit.
+
+## Contribution Guidelines
+We welcome contributions! Please follow our contribution guidelines to help improve [Your Project Name]. 🤝
+
+
+
+
+
+
