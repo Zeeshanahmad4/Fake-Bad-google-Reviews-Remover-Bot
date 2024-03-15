@@ -49,13 +49,13 @@ src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
 ## Project Overview 🌐
 [Your Project Name] aims to automate the process of managing online reviews, ensuring authenticity and relevance. Leveraging advanced scripting and scheduling, it identifies and reports fake or off-topic reviews, maintaining the integrity of online feedback systems. 🌟
 
-## Features
+## Features ✨
 - Automated review reporting 📝
 - Schedule-based task execution ⏲
 - VPN integration for anonymity 🛡
 - User-friendly interface for easy monitoring 🖥
 
-## To-Do Features
+## To-Do Features 📌
 AI-based review content analysis 🤖
 Multi-platform support (e.g., Google, Yelp) 🌐
 User feedback integration for report verification ✅
