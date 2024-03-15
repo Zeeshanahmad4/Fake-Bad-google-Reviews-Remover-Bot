@@ -39,7 +39,7 @@ src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
 - [🚀 Project Overview](#project-overview-)
 - [✨ Features](#features-)
    - [ To-Do Features](#to-do-features-)
-- [🔧 Requirements](#requirements-)
+- [📋 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
 - [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
@@ -61,6 +61,9 @@ Multi-platform support (e.g., Google, Yelp) 🌐
 User feedback integration for report verification ✅
 Advanced analytics dashboard for insights 📊
 
-
+## Requirements 📋 
+- Python 3.8+
+- requests
+- schedule
 
 
