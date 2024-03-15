@@ -1,1 +1,0 @@
-# Parses input review URLs or IDs
