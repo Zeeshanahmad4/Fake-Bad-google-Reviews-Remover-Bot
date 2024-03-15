@@ -67,7 +67,7 @@ Advanced analytics dashboard for insights 📊
 - schedule
 
 
-## Usage Examples💡
+## Usage Examples 💡
 ``` from src.scheduler import schedule_task
 schedule_task(report_review, interval=30)
 ```
@@ -79,7 +79,7 @@ Install dependencies
 ```pip install -r requirements.txt ```
 Configure .env with necessary API keys and settings.
 
-## Troubleshooting Tips 🛠️
+## Troubleshooting Tips🛠️
 - Ensure all environment variables are correctly set.
 - Verify VPN service is operational if reports fail to submit.
 
