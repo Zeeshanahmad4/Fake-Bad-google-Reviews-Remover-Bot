@@ -83,10 +83,12 @@ Configure .env with necessary API keys and settings.
 - Verify VPN service is operational if reports fail to submit.
 
 ## Contribution Guidelines 🤝
-We welcome contributions! Please follow our contribution guidelines to help improve [Your Project Name]. 🤝
+We welcome contributions! Please follow our contribution guidelines to help improve (https://github.com/Zeeshanahmad4/Fake-Bad-google-Reviews-Remover-Bot). 🤝
 
-
-
+Fork the repository.
+- Create a new branch
+- Make your changes and commit them:
+- Push to the branch
 
 
 
