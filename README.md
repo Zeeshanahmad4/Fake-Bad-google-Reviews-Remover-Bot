@@ -41,7 +41,7 @@ src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
 - [📋 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
-- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🔧 Troubleshooting Tips](#troubleshooting-tips-)
 - [🤝 Contribution Guidelines](#contribution-guidelines-)
 
 
@@ -78,7 +78,7 @@ Install dependencies
 ```pip install -r requirements.txt ```
 Configure .env with necessary API keys and settings.
 
-## Troubleshooting Tips🛠️
+## Troubleshooting Tips 🔧
 - Ensure all environment variables are correctly set.
 - Verify VPN service is operational if reports fail to submit.
 
