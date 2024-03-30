@@ -55,10 +55,10 @@ src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
 - User-friendly interface for easy monitoring 🖥
 
 ## To-Do Features 📌
-AI-based review content analysis 🤖
-Multi-platform support (e.g., Google, Yelp) 🌐
-User feedback integration for report verification ✅
-Advanced analytics dashboard for insights 📊
+- AI-based review content analysis 🤖
+- Multi-platform support (e.g., Google, Yelp) 🌐
+- User feedback integration for report verification ✅
+- Advanced analytics dashboard for insights 📊
 
 ## Requirements 📋 
 - Python 3.8+
